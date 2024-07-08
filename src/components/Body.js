@@ -1,4 +1,4 @@
-import RestaurantCard, { withPromotedRestaurant } from "./RestaurantCard";
+import RestaurantCard from "./RestaurantCard";
 //import resObj from "../utils/mockData";
 import { useEffect, useState, useContext } from "react";
 import Shimmer from "./Shimmer";
