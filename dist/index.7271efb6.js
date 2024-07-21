@@ -35924,7 +35924,7 @@ const Body = ()=>{
     const [filteredRestaurant, setfilteredRestaurant] = (0, _react.useState)([]);
     const [searchText, setsearchText] = (0, _react.useState)("");
     //const [RestaurantLabelCard] = withPromotedRestaurant(RestaurantCard);
-    console.log("Body Rendered", ListofRestaurants);
+    //console.log("Body Rendered", ListofRestaurants);
     //Whenever state variable update react triggers a reconciliation cycle(rerender the component)
     (0, _react.useEffect)(()=>{
         fetchData();

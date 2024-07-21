@@ -15,7 +15,7 @@ const Body = () => {
 
   //const [RestaurantLabelCard] = withPromotedRestaurant(RestaurantCard);
 
-  console.log("Body Rendered", ListofRestaurants);
+  //console.log("Body Rendered", ListofRestaurants);
 
   //Whenever state variable update react triggers a reconciliation cycle(rerender the component)
 
